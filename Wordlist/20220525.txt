@@ -1,48 +1,36 @@
-Wordlist0524
-1. I’m tired of your eternal argument
-2. She is a pillar of strength in a crisis
-3. This decision will impose serious constraints on all schools
-4. The job advertisement stipulates that applicant must have three years’ experience
-5.  It might be more prudent to get a second opionion before going ahead
-6. Visual material aids the retention of information 
-7. A gun battle which culminated in the death of two police officers 
-8. His assessment of the situation was spot on 
-9. Can we deduce from your silence that you do not approve?
-10. She was auditioning for the role of Spider Man
-11. Arbitrary parabolic line fits
-12. She shows a natural aptitude for the work
-13. We paid the car by instalments
-14. Clothes with a distinctive style
-15. The report assesses the impact of AIDS  on the gay community 
-16. He’s pulled the company back from the brink
-17. the New York metropolitan area
-18. A synthesis of traditional and modern values
-19. The television comes with a full two year warranty
-20. The opposition leader has intensified his attack on the government 
-21. He was too drunk to articulate properly
-22. His experience abroad provides a wider prospective on the problem
-23. The explosion startled the horse
-24. A picture painted in exuberant reds and yellows
-25. The proximity of the house to a famous school makes it popular 
-26. The animals are kept in the most wretched conditions
-27. Bungalow, a house built all on one level
-28. They were accused of contaminating the mind of our young people
-29. Sunday lunch with the in-laws has became something of a ritual
-30. A prestigious university
-31. The advertisements are all posted in a conspicuous place
-32. The authority of the government was rapidly disintegrating
-33. Follow the signposts to the supermarket 
-34. The two companies consolidated for greater efficiency
-35. The tension between them was almost tangible
-36. Their findings have been widely disseminated
-37. The Roman empire
-38. The curtailment of civil liberties
-39. He graduated with distinction
-40. It was an unparalleled opportunity to develop her career
-41. Black is in vogue again
-42. He lay on the floor groaning
-43. To have the power of veto 
-44. The government is determined to tackle inflation
-45. He won by a narrow margin
-46. He needs to learn to curb his temper
-47. 
+Wordlist0525
+1. Has the jury reached a verdict?
+2. Wallpaper with a flower motif
+3. on the northern fringe of the city 
+4. Beneath his confident exterior, he was desperately nervous.
+5. The next hurdle will be getting their parent's agreement
+6. He has to mortgage his house to pay his legal cost.
+7. The newspaper exaggerated the whole affair widely.
+8. After five years in the job, he started to feel ruthless.
+9. DVD can store prodigious amount of information.
+10. The symptoms may be exacerbated by certain drugs.
+11. Staff are suffering from low morale.
+12. She was able to intentify her attackers.
+13. The body undergoes many changes during puberty
+14. I looked through a rack of clothes at the back of the shop.
+15. The government has agreed to lift restrictions on press freedom.
+16. Prices are exorbitantly high in this shop.
+17. All translated words should be enclosede in brackets.
+18. I'm afraid there's been a dreadful mistake.
+19. The police have managed to retrieve the stolen money
+20. To retrieve informat from the database
+21. His clumsy fingers couldn't untie the knot.
+22. The new tax laws should act as a stimulus to exports.
+23. Politicians seem to be held in contempt by ordinary people.
+24. action to mitigate poverty
+25. You'll find life here pretty tame after New York.
+26. She managed to stifle a yawn.
+27. There is no hospital in the immediate vicinity
+28. The largest contingent is from the US.
+29. The music evoked memories of her youth
+30. This book is dedicated to my parents.
+31. He had a great zest for life.
+32. You are too young to be contemplating retirement.
+33. Ours is a secular society.
+34. I don't like her and I think the feeling is mutual.
+35. The room available is not adequate for our needs.
